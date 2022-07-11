@@ -1,2 +1,2 @@
-# address-list
-address list mikrotik untuk kepentingan bersama
+# address list iix-jk2
+address list iix-jk2 mikrotik 
